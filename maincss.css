@@ -130,10 +130,14 @@ sub{
     }
 
     nav ul li a{
-        font-size: 15px;
+        font-size: 20px;
+    }
+
+    nav ul li{
+        margin-right: 2px;
     }
 
     nav h1.title{
-        font-size: 25px;
+        font-size: 30px;
     }
 }
